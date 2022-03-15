@@ -10,6 +10,7 @@
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons&amp;_cacheOverride=1553632958093" rel="stylesheet">
 	<link rel="stylesheet" href="<?= BASE_URL ?>css/defiant.css">
 	<link rel="stylesheet" href="<?= BASE_URL ?>css/jewellery.css">
+	<link rel="icon" href="<?= BASE_URL ?>favicon.ico" type="image/x-icon">
 </head>
 <body>
     <header>

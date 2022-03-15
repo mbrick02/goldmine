@@ -1,5 +1,12 @@
 <?php
 class Store_items extends Trongate {
+  /* ***below was in L12 vvvvv vvv
+  function display() {
+    $data['view_module'] = 'store_items';
+    $data['view_file'] = 'display';
+    $this->template('public_defiant', $data);
+  }
+  *** above was in L12 ^^***/
 
     function _init_picture_uploader_multi_settings() {
         $data['targetModule'] = 'store_items';
