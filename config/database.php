@@ -13,7 +13,7 @@ define('DB_USER', 'root');
 define('DB_PASS', 'Faust42God');
 define('DB_NAME', 'goldmine');
 
-/* OLD - Orig. */
+/* New format maybe 2021 */
 define('USER', 'root');
 define('PASSWORD', 'Faust42God');
 define('DATABASE', 'goldmine');
